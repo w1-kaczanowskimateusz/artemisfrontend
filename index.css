@@ -1,0 +1,119 @@
+body
+{
+    overflow: hidden;
+    font-family: Calibri;
+    background-color: #CBFFFF;
+}
+
+#header
+{
+    background-color: #4672c4;
+    width: 102%;
+    height: 105px;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+
+#headerLogo1
+{
+    width: 105px;
+    height: 100%;
+}
+
+#headerLogo2
+{
+    width: 105px;
+    height: 100%;
+    float: right;
+    margin-left: 30px;
+}
+
+#menuItem1
+{
+    width: 160px;
+    height: 90px;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: -103px;
+    border-radius: 25px;
+    background-color: #7F7F7F;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 90px;
+    font-size: 32px;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+#menuItem2
+{
+    width: 160px;
+    height: 90px;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: -103px;
+    border-radius: 25px;
+    background-color: #7F7F7F;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 90px;
+    font-size: 32px;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+#menuItem3
+{
+    width: 160px;
+    height: 90px;
+    position: absolute;
+    margin-left: 680px;
+    margin-top: -103px;
+    border-radius: 25px;
+    background-color: #7F7F7F;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 90px;
+    font-size: 32px;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+#menuItem4
+{
+    width: 160px;
+    height: 90px;
+    position: absolute;
+    margin-left: 910px;
+    margin-top: -103px;
+    border-radius: 25px;
+    background-color: #7F7F7F;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 90px;
+    font-size: 32px;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+#menuItem5
+{
+    width: 160px;
+    height: 90px;
+    position: absolute;
+    margin-left: 1140px;
+    margin-top: -103px;
+    border-radius: 25px;
+    background-color: #7F7F7F;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 90px;
+    font-size: 32px;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
