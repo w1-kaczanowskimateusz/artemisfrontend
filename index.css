@@ -442,6 +442,14 @@ body
 
 /* Doneren */
 
+#DonateBtn {
+    width: 100px;
+    height: 20px;
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 270px;
+}
+
 #totaal {
     margin-left: 720px;
     font-size: 32px;
@@ -627,6 +635,14 @@ body
 }
 
 /* Contact */
+
+#ContactBtn {
+    width: 100px;
+    height: 20px;
+    position: absolute;
+    margin-right: 400px;
+    margin-top: 440px;
+}
 
 #HeaderContact {
     font-size: 32px;
